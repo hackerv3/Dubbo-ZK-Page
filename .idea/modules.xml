@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-zk-page/dubbo-consumer/dubbo-consumer.iml" filepath="$PROJECT_DIR$/dubbo-zk-page/dubbo-consumer/dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-zk-page/dubbo-provider/dubbo-interface/dubbo-interface.iml" filepath="$PROJECT_DIR$/dubbo-zk-page/dubbo-provider/dubbo-interface/dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-zk-page/dubbo-consumer/dubbo-portal-service/dubbo-portal-service.iml" filepath="$PROJECT_DIR$/dubbo-zk-page/dubbo-consumer/dubbo-portal-service/dubbo-portal-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-zk-page/dubbo-consumer/dubbo-portal-web/dubbo-portal-web.iml" filepath="$PROJECT_DIR$/dubbo-zk-page/dubbo-consumer/dubbo-portal-web/dubbo-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-zk-page/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/dubbo-zk-page/dubbo-provider/dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-zk-page/dubbo-provider/dubbo-service/dubbo-service.iml" filepath="$PROJECT_DIR$/dubbo-zk-page/dubbo-provider/dubbo-service/dubbo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-zk-page/dubbo-zk-page.iml" filepath="$PROJECT_DIR$/dubbo-zk-page/dubbo-zk-page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-zk-page/mapper/mapper.iml" filepath="$PROJECT_DIR$/dubbo-zk-page/mapper/mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-zk-page/pojo/pojo.iml" filepath="$PROJECT_DIR$/dubbo-zk-page/pojo/pojo.iml" />
+    </modules>
+  </component>
+</project>
