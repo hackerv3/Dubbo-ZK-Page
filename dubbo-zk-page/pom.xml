@@ -29,7 +29,7 @@
         <tomcat.version>2.2</tomcat.version>
         <jsp-api.version>2.0</jsp-api.version>
         <zkClient-version>0.10</zkClient-version>
-        <dubbo-version>2.5.4</dubbo-version>
+        <dubbo-version>2.6.12</dubbo-version>
     </properties>
 
 
